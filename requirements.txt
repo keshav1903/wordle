@@ -40,7 +40,6 @@ Random-Word==1.0.7
 requests==2.27.1
 soupsieve==2.3.1
 SpeechRecognition==3.8.1
-tk
 toml==0.10.2
 typing_extensions==4.1.1
 urllib3==1.26.8
