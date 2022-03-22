@@ -1,6 +1,3 @@
-from email import message
-from tabnanny import check
-from turtle import title
 import discord
 from discord.ext import commands
 import time
@@ -9,7 +6,6 @@ from discord.utils import get
 import asyncio
 import json
 import enchant
-from pip import main
 d = enchant.Dict('en_IN')
 from random_word import RandomWords
 r = RandomWords()
